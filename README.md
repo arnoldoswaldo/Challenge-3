@@ -35,8 +35,7 @@ class Bill{
         +print_bill()
     }
 ```
-
-#Codigo:
+Este es el Codigo que desarolle como solucion al reto planteado
 ```
 class MenuItem:
     def __init__(self, name, price):
