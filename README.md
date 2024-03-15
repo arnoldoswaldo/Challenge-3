@@ -107,8 +107,8 @@ print("Total a pagar:", order.bill())
 # EJERCCIO DE LINEA 
 Este fue el efercicioporpuesto en clase y su solucion 
 
-# Mermaid playing ""Cuenta de restaurante"
-Este diagrama representa los elementos de un programa para calcular la factura del pedido de un cliente en un restaurante.
+# Mermaid playing ""Ejercicio Linea"
+Este diagrama representa los elementos para  que apartir de la definicion de una linea se pueda generar la  grafica de un rectangulo y el calculo de su area  .
 ***
 ```mermaid
 classDiagram
@@ -124,6 +124,7 @@ classDiagram
       +compute_vertical_cross()
     }
 ```
+Este es el codigo propuesto como sulucion al ejercicio
 ```
 class Point:
     def __init__(self, x, y):
